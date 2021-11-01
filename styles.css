@@ -17,17 +17,17 @@ footer {
 }
 
 .w {
-background-image: url('/Drum Kit/images/tom1.png');
+background-image: url('/drum-kit/images/tom1.png');
 
 }
 
 .a {
-  background-image: url('/Drum Kit/images/tom2.png');
+  background-image: url('/drum-kit/images/tom2.png');
 
 }
 
 .s {
-  background-image: url('/Drum Kit/images/tom3.png');
+  background-image: url('/drum-kit/images/tom3.png');
 
 }
 
@@ -37,17 +37,17 @@ background-image: url('/Drum Kit/images/tom1.png');
 }
 
 .j {
-  background-image: url('/Drum Kit/images/snare.png');
+  background-image: url('/drum-kit/images/snare.png');
 
 }
 
 .k {
-  background-image: url('/Drum Kit/images/crash.png');
+  background-image: url('/drum-kit/images/crash.png');
 
 }
 
 .l {
-  background-image: url('/Drum Kit/images/kick.png');
+  background-image: url('/drum-kit/images/kick.png');
 
 }
 
