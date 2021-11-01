@@ -23,26 +23,26 @@ function makeSound(key) {
   let audio;
   switch (key) {
     case 'w':
-      audio = new Audio('/Drum Kit/sounds/tom-1.mp3');
+      audio = new Audio('/drum-kit/sounds/tom-1.mp3');
 
       break;
     case 'a':
-      audio = new Audio('/Drum Kit/sounds/tom-2.mp3');
+      audio = new Audio('/drum-kit/sounds/tom-2.mp3');
       break;
     case 's':
-      audio = new Audio('/Drum Kit/sounds/tom-3.mp3');
+      audio = new Audio('/drum-kit/sounds/tom-3.mp3');
       break;
     case 'd':
-      audio = new Audio('/Drum Kit/sounds/tom-4.mp3');
+      audio = new Audio('/drum-kit/sounds/tom-4.mp3');
       break;
     case 'j':
-      audio = new Audio('/Drum Kit/sounds/snare.mp3');
+      audio = new Audio('/drum-kit/sounds/snare.mp3');
       break;
     case 'k':
-      audio = new Audio('/Drum Kit/sounds/crash.mp3');
+      audio = new Audio('/drum-kit/sounds/crash.mp3');
       break;
     case 'l':
-      audio = new Audio('/Drum Kit/sounds/crash.mp3');
+      audio = new Audio('/drum-kit/sounds/crash.mp3');
       break;
     default:
       console.log('please enter correct key');
